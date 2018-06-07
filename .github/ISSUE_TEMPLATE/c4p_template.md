@@ -1,4 +1,3 @@
-Título: **Título da palestra**
 Palestrante: **Nome**
 Empresa: **Nome**
 Descrição da palestra:
