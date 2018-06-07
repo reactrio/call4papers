@@ -1,5 +1,5 @@
 # Call4papers para Meetups do Raect-Rio
-Quer palestar?  Submeta <a href="https://github.com/reactrio/call4papers/issues/new?template=call4papers/.github/c4p_template.md">aqui</a> a sua palestra.
+Quer palestar?  Submeta <a href="https://github.com/reactrio/call4papers/issues/new?template=c4p_template.md">aqui</a> a sua palestra.
 
 
 ## A Escolha
